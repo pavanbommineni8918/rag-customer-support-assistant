@@ -1,0 +1,14 @@
+[
+  {
+    "id": "ESC-03B19C33",
+    "timestamp": "2026-04-23T08:43:22.812793+00:00",
+    "query": "hi",
+    "retrieved_chunks": [],
+    "chunk_sources": [],
+    "llm_attempt": null,
+    "confidence_score": 0.0,
+    "escalation_reason": "llm_failure",
+    "human_response": null,
+    "resolved": false
+  }
+]
