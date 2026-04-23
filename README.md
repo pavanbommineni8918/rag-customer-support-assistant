@@ -1,7 +1,6 @@
 # RAG-Based Customer Support Assistant
 ### with LangGraph Workflow Orchestration & Human-in-the-Loop (HITL) Escalation
-
-> **Internship Project | VTU Evaluation**  
+ 
 > Implements: RAG · LangGraph · ChromaDB · Sentence Transformers · Groq LLM · HITL Escalation
 
 ---
