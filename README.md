@@ -275,9 +275,8 @@ START
 
 ## 👤 Author
 
-**[Your Name]**  
-VTU Internship Project | AI/ML Track  
-LinkedIn: [your-linkedin-url]
+**[BOMMINENI PAVAN KUMAR]**    
+6281800244
 
 ---
 
